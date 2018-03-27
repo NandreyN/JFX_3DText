@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="FXyz-Client-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/FXyz-Client-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/FXyz-Core-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/stdlib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/stdlib.jar!/" />
+    </SOURCES>
+  </library>
+</component>
